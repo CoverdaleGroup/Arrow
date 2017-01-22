@@ -4,3 +4,121 @@ Theme name: My SPA Theme
 Version: 1.0
 Template: Howdy
 */
+element.style {
+    color: #3B2912;
+}
+.order-cloud .form-signin {
+    background: none repeat scroll 0 0 rgba(255, 255, 255, 0.75);
+    border-radius: 15px;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.20);
+    margin: 2em auto;
+    max-width: 26em;
+    padding: 1em 1em 2em;
+}
+.badge {
+    background-color: #ffffff;
+    border-radius: 10px;
+    color: #82B6BF;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 1;
+    min-width: 10px;
+    padding: 3px 7px;
+    text-align: center;
+    vertical-align: baseline;
+    white-space: nowrap;
+}
+
+.copyright-view p:last-of-type {
+    background-color: #82B6BF;
+    border: 1px solid #82B6BF;
+    color: #fff;
+}
+.copyright-view p:last-of-type .btn {
+    background-color: #3B2912;
+    border: medium none;
+    color: #fff;
+}
+
+.well {
+    background-color: #ffffff;
+    border: 0px solid #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 0px 0px rgba(0, 0, 0, 0.00) inset;
+    margin-bottom: 20px;
+    min-height: 20px;
+    padding: 19px;
+}
+
+.thumbnail img {
+    margin: 0 auto 15px;
+    max-height: 150px;
+    max-width: 100%;
+}
+
+.text-success {
+    color: #44676d;
+}
+
+.view-form-icon .quantity div input {
+    border-color: #ddd;
+    border-radius: 0;
+    box-shadow: none;
+    color: #44676d;
+    font-size: 24px;
+    height: 52px;
+    margin: 0;
+    outline: 0 none;
+    padding: 0.5em 0;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #3b2912;
+
+}
+.jumbotron h2 img {
+    max-height: 300px;
+}
+
+.nav {
+    padding: 0px;
+}
+body {
+    padding: 25px;
+}
+.panel-default .panel-heading .panel-title {
+    color: #000;
+    margin-top: 25px;
+}
+
+.thumbnail img {
+    margin: 0 auto 15px;
+    max-height: 300px;
+    max-width: 100%;
+}
+
+.product-image-large {
+    margin: 0 auto;
+    max-height: 500px;
+    max-width: 100%;
+}
+
+.btn-success, .btn-success:hover {
+    color: #ffffff;
+}
+h3, .h3 {
+    font-size: 18px;
+    height: 50px;
+}
+
+.btn-success {
+    background-color: #ec6921;
+}
+.jumbotron h2 img {
+    margin: 20px;
+    font-size; 24px;
+
+}

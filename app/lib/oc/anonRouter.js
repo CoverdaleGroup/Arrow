@@ -3,7 +3,7 @@ angular.module('OrderCloud-AnonRouter', []);
 angular.module('OrderCloud-AnonRouter')
 
     .run(run)
-    .constant('after', 'checkout')
+    .constant('after', 'cart')
     .constant('before', 'checkout')
     .factory('AnonRouter', AnonRouter)
 ;

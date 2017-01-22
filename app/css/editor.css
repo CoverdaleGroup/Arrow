@@ -1,1 +1,61 @@
-/*do not make changes to this file. It will be overwritten by the css editor. Put theme changes in custom.css*/
+.container .navbar-nav li.active a:hover  {background-color: #63878f;}
+.container .navbar-nav li.active a:focus  {background-color: #63878f;}
+.navbar-default .navbar-nav .open > a  {background-color: #63878f;}
+.navbar-default .navbar-nav .open > a:hover  {background-color: #63878f;}
+.navbar-default .navbar-nav .open > a:focus  {background-color: #63878f;}
+.navbar-nav li.dropdown li > a:hover  {background-color: #63878f;}
+.navbar-nav li.dropdown li > a:focus  {background-color: #63878f;}
+.navbar .container .navbar-nav li.active .fa-caret-down  {color: #63878f;}
+.navbar-nav li.dropdown li > a  {color: #333333;}
+.navbar-nav li.dropdown li > a:hover  {color: #000000;}
+.navbar .container .navbar-nav.pull-right li a i:first-of-type  {border-color: #000000;}
+.badge  {background-color: #FFFFFF;}
+.badge  {color: #FFFFFF;}
+.navbar-default  {background-color: #779ba3;}
+.container .navbar-nav li a  {color: #000000;}
+.container .navbar-nav li.active > a  {background-color: #63878f;}
+.container .navbar-nav li.active > a  {color: #FFFFFF;}
+.navbar-default, .dropdown-mega  {border-color: #FFFFFF;}
+body  {background-color: #FFFFFF;}
+body  {color: #333333;}
+.text-primary  {color: #44676d;}
+.text-info  {color: #31708F;}
+body a  {color: #0C2A3A;}
+.btn-primary  {background-color: #0C2A3A;}
+.btn-primary, .btn-primary:hover  {color: #FFFFFF;}
+.btn-primary  {border-color: #081B24;}
+.btn-primary:hover  {background-color: #051118;}
+.btn-default  {background-color: #FFFFFF;}
+.btn-default, .btn-default:hover  {color: #333333;}
+.btn-default  {border-color: #CCCCCC;}
+.btn-default:hover  {background-color: #EBEBEB;}
+.btn-info  {background-color: #779ba3;}
+.btn-info, .btn-info:hover  {color: #000000;}
+.btn-info  {border-color: #688c94;}
+.btn-info:hover  {background-color: #63878f;}
+.btn-success  {background-color: #779ba3;}
+.btn-success, .btn-success:hover  {color: #000000;}
+.btn-success  {border-color: #688c94;}
+.btn-success:hover  {background-color: #63878f;}
+.btn-warning  {background-color: #b6ced3;}
+.btn-warning, .btn-warning:hover  {color: #000000;}
+.btn-warning  {border-color: #a7bfc4;}
+.btn-warning:hover  {background-color: #a2babf;}
+.btn-danger  {background-color: #44676d;}
+.btn-danger, .btn-danger:hover  {color: #FFFFFF;}
+.btn-danger  {border-color: #35585e;}
+.btn-danger:hover  {background-color: #305359;}
+.jumbotron  {background-color: #FFFFFF;}
+h2 .jumbotron  {color: #333333;}
+.panel-primary .panel-heading .panel-title  {background-color: #82B6BF;}
+.panel-primary .panel-heading .panel-title  {color: #000000;}
+.panel-default .panel-heading .panel-title  {background-color: #82B6BF;}
+.panel-default .panel-heading .panel-title  {color: #000000;}
+.panel  {background-color: #FFFFFF;}
+.panel-footer  {background-color: #F5F5F5;}
+.panel-category-list .well  {background-color: #FFFFFF;}
+.panel-category-list .well h5  {color: #333333;}
+.panel-category-list .well  {border-color: #F0F0F0;}
+.panel-product-list .well  {background-color: #FFFFFF;}
+.panel-product-list .well  {color: #333333;}
+.panel-product-list .well  {border-color: #F0F0F0;}

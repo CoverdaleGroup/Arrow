@@ -1,11 +1,13 @@
 <section class="jumbotron" ng-class="{'active': isActive('catalog')}" ng-show="user.Company.LogoUrl">
-    <div class="container">
+    <customcarousel></customcarousel>
+    <div class="container" align="center">
         <h2 class="thumbnail" ng-show="Four51User.isAuthenticated()">
-            <a href="catalog">
-                <img ng-src="{{user.Company.LogoUrl}}" />
+            <a ng-click="refreshUser()" href="catalog">
+                <!--<img ng-src="{{user.Company.LogoUrl}}" />-->
+                <img ng-src="http://www.quality-resource.com/four51/caribou/BouGear-Logo.jpg"></img>
+                <!--<div><span>Free shipping to Caribou Coffee Corporate Headquarters</br>now through Friday, October 30th</span></div>-->
             </a>
-            <span>{{user.Company.Name}}</span>
-            <homemessage />
         </h2>
     </div>
 </section>
+
